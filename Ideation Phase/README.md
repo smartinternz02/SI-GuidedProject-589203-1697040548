@@ -1,4 +1,3 @@
-# Project README
 
 ## Empathy Map Canvas
 Explore the **Empathy Map Canvas** to gain deep insights into the user experience.The canvas is accessible [here](https://drive.google.com/file/d/18U0j4AzLpNsmQChSwlHBnG1VQdqFSDLv/view?usp=sharing).
